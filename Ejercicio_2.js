@@ -13,4 +13,4 @@ function ordena(c){
 
 
 c=prompt('Ingrese numeros: ');
-console.log(ordena(c.split("")));
+alert(ordena(c.split("")));
