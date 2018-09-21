@@ -18,8 +18,8 @@ function Pal(p){
 x=Pal(p=prompt('Ingrese una palabra: '));
 
 if(x==true){
-    console.log("Palindromo alv")
+    alert('La palabra es palindroma');
 }
 else if(x==false){
-    console.log("No palindromo alv")
+    console.log("La palabra no es palindroma");
 }

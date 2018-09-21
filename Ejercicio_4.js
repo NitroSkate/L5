@@ -11,5 +11,4 @@ function conver(n){
     return a;
 }
 
-/*console.log(conver(n=prompt('Ingrese un numero: ')));*/
-alert(conver(n=prompt('Ingrese un numero: ')));
+alert('El valor binario del numero es: ' + conver(n=prompt('Ingrese un numero: ')));
